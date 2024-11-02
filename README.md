@@ -5,7 +5,7 @@
 ### Team Members
 - **Petar Stoev**
 - **Nikolay Ivanov**
-- **Vencislav Ivanov**
+- **Ventsislav Ivanov**
 
 ---
 
